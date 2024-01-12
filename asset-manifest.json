@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-ract-portfolio/static/css/main.0d13c7c7.css",
+    "main.js": "/my-ract-portfolio/static/js/main.2c0a1bcc.js",
+    "index.html": "/my-ract-portfolio/index.html",
+    "main.0d13c7c7.css.map": "/my-ract-portfolio/static/css/main.0d13c7c7.css.map",
+    "main.2c0a1bcc.js.map": "/my-ract-portfolio/static/js/main.2c0a1bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d13c7c7.css",
+    "static/js/main.2c0a1bcc.js"
+  ]
+}
